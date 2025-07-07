@@ -1,0 +1,10 @@
+installations :
+
+pip install django
+
+django-admin startproject project1
+py manage.py statapp
+py manage.py runserver
+
+pip install google-generativeai
+pip install markdown
